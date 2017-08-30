@@ -1,0 +1,17 @@
+c:\users\94\documents\visual studio 2010\Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+c:\users\94\documents\visual studio 2010\Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+c:\users\94\documents\visual studio 2010\Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+c:\users\94\documents\visual studio 2010\Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\94\documents\visual studio 2010\Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\94\documents\visual studio 2010\Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+c:\users\94\documents\visual studio 2010\Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\94\Documents\Visual Studio 2010\Projects\OPZ_Calc\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\94\Documents\Visual Studio 2010\Projects\OPZ_Calc\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\94\Documents\Visual Studio 2010\Projects\OPZ_Calc\bin\Release\WindowsFormsApplication1.exe
+C:\Users\94\Documents\Visual Studio 2010\Projects\OPZ_Calc\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\94\Documents\Visual Studio 2010\Projects\OPZ_Calc\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\94\Documents\Visual Studio 2010\Projects\OPZ_Calc\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\94\Documents\Visual Studio 2010\Projects\OPZ_Calc\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\94\Documents\Visual Studio 2010\Projects\OPZ_Calc\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Other\Visual Studio 2010\Projects\OPZ_Calc\obj\x86\Release\WindowsFormsApplication1.exe
+F:\Other\Visual Studio 2010\Projects\OPZ_Calc\obj\x86\Release\WindowsFormsApplication1.pdb
